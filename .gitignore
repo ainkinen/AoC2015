@@ -1,0 +1,11 @@
+# Inputs
+input.txt
+test_input.txt
+
+# IntelliJ
+.idea
+
+# Caches
+.mypy_cache
+.pytest_cache
+__pycache__
